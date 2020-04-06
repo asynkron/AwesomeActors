@@ -6,9 +6,9 @@ Not only actors, concurrency and distributed programming tools are also listed
 
 ### Akka.NET
 
-### Azure Durable Entities
+### Azure Functions - Durable Entities
 
-### Azure Service Fabric
+### Azure Service Fabric - Reliable Actors
 
 ### Coyote
 
