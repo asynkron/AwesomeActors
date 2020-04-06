@@ -1,5 +1,7 @@
 # Awesome Actors'ish
 
+Not only actors, concurrency and distributed programming tools are also listed
+
 ## .NET
 
 ### Akka.NET
