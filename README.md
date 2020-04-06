@@ -26,5 +26,5 @@ https://microsoft.github.io/coyote/
 
 ### Proto.Actor
 
-https://proto.actor
+http://proto.actor
 
