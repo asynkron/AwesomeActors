@@ -24,7 +24,9 @@ https://microsoft.github.io/coyote/
 
 ### Project Orleans
 
+https://dotnet.github.io/orleans/
+
 ### Proto.Actor
 
-http://proto.actor
+https://proto.actor
 
