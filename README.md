@@ -22,9 +22,9 @@ https://microsoft.github.io/coyote/
 
 ### F# Mailbox
 
-### Project Orleans
+### Orleans
 
-https://dotnet.github.io/orleans/
+https://github.com/dotnet/orleans/
 
 ### Proto.Actor
 
